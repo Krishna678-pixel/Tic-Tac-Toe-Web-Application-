@@ -8,10 +8,8 @@
   <h1>tic-tac-toe</h1>
     <div id="tic-tac-toe">
         <div class="cell" data-cell></div>
-        
-    </div>
+        </div>
     <button id="restartButton">Restart</button>
-   
 </body>
 </html>
 
